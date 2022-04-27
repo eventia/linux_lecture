@@ -1,0 +1,6 @@
+# DOWNLOAD galculator debian file
+
+wget https://github.com/eventia/linux_lecture/raw/main/galculator_2.1.4-1.2_amd64.deb
+
+
+# 
